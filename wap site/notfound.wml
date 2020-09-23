@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE wml>
+<wml>
+    <card title="Page not Found">
+    <p>
+      <b>Error 404</b>  
+      <br/> 
+      The requested page was not found on this server 
+      <br/> 
+      <a href="index.wml">Home</a>
+      </p>
+  </card>
+</wml>

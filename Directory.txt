@@ -1,0 +1,13 @@
+1$Path\wap site\index.wml
+2$Path\wap site\notfound.wml
+0$Path\wap site\post.wml
+0$Path\wap site\posted.wml
+0$Path\wap site\postings.wml
+0$Path\wap site\line.jpg
+0$Path\wap site\favicon.ico
+0$Path\wap site\aditheseis.mid
+0$Path\wap site\die for you.mid
+0$Path\wap site\my number one.mid
+0$Path\wap site\kr.mid
+0$Path\wap site\moonlsh.mid
+0$Path\wap site\tk.mid

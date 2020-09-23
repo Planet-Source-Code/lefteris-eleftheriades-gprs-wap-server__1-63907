@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE wml>
+<wml>
+    <card title="My wapserver">
+    <p>
+      <b>Wapserver                  Index</b><br/> 
+      <img alt="" src="line.jpg"/><br/> 
+      <a href="kr.mid">Night Raider</a><br/>
+      <a href="moonlsh.mid">Moonlight Shadow</a><br/>
+      <a href="tk.mid">Trelli Kardia</a><br/>
+      <a href="my number one.mid">My number one</a><br/>
+      <a href="aditheseis.mid">Aditheseis</a><br/>
+      <a href="die for you.mid">Die for you</a><br/>
+      <a href="post.wml">Post Page</a><br/>
+      <a href="school.wml">Error Page</a>
+    </p>
+  </card>
+</wml>

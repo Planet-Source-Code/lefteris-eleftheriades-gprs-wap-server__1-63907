@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE wml>
+<wml>
+    <card title="POST RESPONCE">
+    <p>
+         Your text was saved in the server
+      <br/>
+        <a href="postings.wml">view all postings</a>
+    </p>
+  </card>
+</wml>
